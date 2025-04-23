@@ -12,10 +12,10 @@
 
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-ea4335?logo=Gmail&logoColor=white&link=mailto:hyejin.jeon940120@gmail.com)](mailto:hyejin.jeon940120@gmail.com) [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?logo=Naver&logoColor=white&link=mailto:jhj5430@naver.com)](mailto:jhj5430@naver.com) 
+### 🛠 Tech Stack 🛠
 
 -->
 
-### 🛠 Tech Stack 🛠
 
 
 
