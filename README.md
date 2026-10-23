@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E8D5B9,100:A9805B&height=180&section=header&text=Hyejin%20Jeon&fontSize=48&fontColor=FFFFFF&fontAlignY=36&desc=Backend%20Product%20Engineer&descSize=18&descAlignY=56&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=Hyejin%20Jeon&fontSize=48&fontAlignY=36&desc=Backend%20Product%20Engineer&descSize=18&descAlignY=56&animation=fadeIn" width="100%"/>
 
 ### 소개
 안녕하세요, 백엔드 개발자 전혜진입니다.
@@ -34,4 +34,4 @@
 ### 연락
 <a href="mailto:hyejin.jeon940120@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a> <a href="https://www.linkedin.com/in/hyejin-jeon-60a9ab184/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square"/></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E8D5B9,100:A9805B&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" width="100%"/>
